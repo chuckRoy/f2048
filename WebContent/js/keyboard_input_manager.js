@@ -18,7 +18,6 @@ function KeyboardInputManager() {
 }
 var lock = false;
 function stop() {
-	console.log("this is stop");
 	//after success
 	lock = true;
 	$("#auto_btn").html("auto");
