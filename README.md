@@ -17,6 +17,12 @@ Require
 
 Installation
 --------------
+you can download the .war file in [release] (https://github.com/chuckRoy/f2048/releases)
+
+OR
+
+download source code 
+
 in eclipse 
 
 ```sh
@@ -24,7 +30,7 @@ just import and run on a server
 ```
 then open your browser
 
-http://localhost:8080/f2048/
+[http://localhost:8080/f2048/] (http://localhost:8080/f2048/)
 
 and enjoy
 
